@@ -10,5 +10,5 @@
  
 
 
-## Click ('https://malankinam.github.io/-Funny-resume/')
+## Click ('https://malankinam.github.io/NewYEAR2/')
  <img src="./img/screencapture-127-0-0-1-5501-index-html-2023-12-21-08_23_40.png" title="css"  width="800" height="800"/>
